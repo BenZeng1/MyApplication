@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">第一个APP1.1</string>
+
+    <string name="hello_world">你好，android</string>
+    <string name="action_settings">设置</string>
+    <string name="edit_message">请输入消息</string>
+    <string name="button_send">发送</string>
+    <string name="title_activity_display_message">显示消息的活动</string>
+    <string name="action_search">搜索</string>
+    <string name="action_edit">编辑</string>
+</resources>
